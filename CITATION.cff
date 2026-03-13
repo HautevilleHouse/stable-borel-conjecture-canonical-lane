@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "The Stable Borel Conjecture via Topological-Rigidity Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-11
+repository-code: "https://github.com/HautevilleHouse/stable-borel-conjecture-canonical-lane"
+url: "https://github.com/HautevilleHouse/stable-borel-conjecture-canonical-lane"
+keywords:
+  - stable-borel-conjecture
+  - geometric-topology
+  - topological-rigidity
+  - manifold-theory
+  - geometric-group-theory
+  - mathematical-proof
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "The Stable Borel Conjecture via Topological-Rigidity Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-11
